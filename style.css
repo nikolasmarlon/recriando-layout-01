@@ -55,7 +55,7 @@ main strong {
 }
 main p {
     line-height: 22px;
-    text-align: center;
+    text-align: justify;
 }
 
 main p:last-child{
